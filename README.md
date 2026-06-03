@@ -66,7 +66,9 @@
 * تفسير الآيات آية بآية
 * صيغة منظمة قابلة للقراءة البرمجية والاستخدام عبر API
 
+https://cdn.jsdelivr.net/gh/quranapp006-boop/tafsir-the-Holy-Quran@main/asset/1.png
 
+https://cdn.jsdelivr.net/gh/quranapp006-boop/tafsir-the-Holy-Quran@main/tafsir/tafsir-al-qurtubi
 
 نرحب بالمساهمات لتحسين المشروع عبر:
 
