@@ -32,7 +32,7 @@
 ## 🖼️ معاينة إضافية
 
 <p align="center">
-  <img src="./asset/2.jpg" alt="معاينة التفاسير 2" />
+  <img src="./asset/2.png" alt="معاينة التفاسير 2" />
 </p>
 
 ---
