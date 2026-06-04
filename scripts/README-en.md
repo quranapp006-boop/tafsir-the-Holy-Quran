@@ -1,4 +1,6 @@
-# Scripts — Developer Guide
+<p align="center">
+  <img src="../asset/1.png" alt="المقدمة: بسم الله الرحمن الرحيم" />
+</p>
 
 This folder contains utilities to read raw Quranic tafsir (Islamic commentary) JSON files and export them into one consolidated storage file per tafsir source in a variety of formats (SQLite, SQL, CSV, XML, YAML, TOML, INI, and more).
 
